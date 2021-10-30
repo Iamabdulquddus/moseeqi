@@ -80,7 +80,7 @@ class _PlayerScreenState extends State<PlayerScreen> {
             ),
             Text(
               'Life is a joke - Ahsan_Program',
-              style: TextStyle(fontSize: 22, color: textColor),
+              style: TextStyle(fontSize: 21, color: textColor),
             ),
             SizedBox(
               height: 5,
