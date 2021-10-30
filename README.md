@@ -1,16 +1,6 @@
-# moseeqi
+# **moseeqi**
 
-A new Flutter project.
+A music Player with Soft UI desgin (neumorphism design).
+The desgin of the app is complete. Functionality will be added soon.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2021-10-30-12-08-39-160_com example moseeqi](https://user-images.githubusercontent.com/77376072/139524043-8bd0179e-d2c6-45b7-af25-65d251460d2d.jpg)
